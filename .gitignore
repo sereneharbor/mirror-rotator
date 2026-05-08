@@ -1,0 +1,8 @@
+node_modules/
+client/node_modules/
+dist/
+.env
+*.tmp.*
+
+# Keep the data directory tracked so Railway sees it on deploy
+!data/.gitkeep
